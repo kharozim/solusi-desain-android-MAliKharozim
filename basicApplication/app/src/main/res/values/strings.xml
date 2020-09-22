@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SolusiDesainAndroidTryout</string>
+
+    <!--This is answer for validation palindrome-->
+    <string name="answer_1">A nut for a jar of tuna.</string>
+    <string name="answer_2">Al lets Della call Ed “Stella.”</string>
+    <string name="answer_3">Amore, Roma.</string>
+    <string name="answer_4">Borrow or rob?</string>
+    <string name="answer_5">King, are you glad you are king?</string>
+    <string name="answer_6">Taco cat</string>
+    <string name="answer_7">Was it a car or a cat I saw?</string>
+    <string name="answer_8">Oozy rat in a sanitary zoo.</string>
+</resources>
